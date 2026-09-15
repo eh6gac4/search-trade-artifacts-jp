@@ -1,0 +1,24 @@
+[h2]概要[/h2]
+
+[url=https://steamcommunity.com/id/pharaox]pharaox[/url] 氏の [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2962238514]Search & Trade Artifacts[/url] を日本語化する追加Modです。
+
+本Modは [b]localization/japanese[/b] 配下のファイルを追加するだけで、元Modのスクリプト・GUI・その他コンテンツには一切手を加えていません。Modリストでは元Modの後（下）に配置して有効化してください。
+
+[h2]必要なもの[/h2]
+
+元Mod [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2962238514]Search & Trade Artifacts[/url] の購読が別途必要です。本Mod単体では何も機能しません。
+
+[h2]互換性[/h2]
+
+元Mod v0.17.1 / CK3 1.19.* に対応しています。元Modが更新されローカライズキーが追加・変更された場合、本Modの更新までは該当箇所が一時的に英語表示になることがあります。
+
+[h2]リンク[/h2]
+
+[list]
+ [*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2962238514]Search & Trade Artifacts（元Mod）[/url]
+ [*] [url=https://github.com/eh6gac4/search-trade-artifacts-jp]GitHubリポジトリ[/url]
+[/list]
+
+[h2]ライセンス[/h2]
+
+元Modと同じGPL-3.0です。翻訳したローカライズキー構造以外、元Modのコンテンツは含みません。

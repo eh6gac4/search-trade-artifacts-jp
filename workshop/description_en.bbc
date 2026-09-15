@@ -1,0 +1,24 @@
+[h2]Overview[/h2]
+
+This mod adds a Japanese localization for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2962238514]Search & Trade Artifacts[/url] by [url=https://steamcommunity.com/id/pharaox]pharaox[/url].
+
+It only adds [b]localization/japanese[/b] files — it does not modify or include any of the original mod's scripts, GUI, or content. Enable it after Search & Trade Artifacts in your mod list.
+
+[h2]Requirements[/h2]
+
+You need to subscribe to [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2962238514]Search & Trade Artifacts[/url] separately. This mod does nothing on its own.
+
+[h2]Compatibility[/h2]
+
+Matches base mod v0.17.1 / CK3 1.19.*. If a newer version of the base mod adds or changes localization keys, some text may temporarily fall back to English until this mod is updated.
+
+[h2]Links[/h2]
+
+[list]
+ [*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2962238514]Search & Trade Artifacts (base mod)[/url]
+ [*] [url=https://github.com/eh6gac4/search-trade-artifacts-jp]GitHub Repository[/url]
+[/list]
+
+[h2]License[/h2]
+
+GPL-3.0, same as the base mod. This mod contains no content from the base mod other than the translated localization key structure.
