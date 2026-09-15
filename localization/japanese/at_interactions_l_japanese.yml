@@ -1,0 +1,52 @@
+﻿l_japanese:
+ # at_buy_artifact_interaction
+ at_buy_artifact_interaction: "遺物を買う"
+ at_buy_artifact_interaction_desc: "[artifact|E]を[gold|E]で買います"
+ at_buy_artifact_interaction_extra_icon: "$hook_extra_icon$"
+
+ # at_sell_artifact_interaction
+ at_sell_artifact_interaction: "遺物を売る"
+ at_sell_artifact_interaction_desc: "[artifact|E]を[gold|E]で売ります"
+ at_sell_artifact_interaction_extra_icon: "$hook_extra_icon$"
+
+ # at_sell_artifacts_interaction
+ at_sell_artifacts_interaction: "遺物を売る"
+ at_sell_artifacts_interaction_desc: "事前に選択した[artifact|E]を、購入意思のあるキャラクターに売却します"
+ at_sell_artifacts_interaction_send_name: "遺物を売る"
+ recipient_secondary_at_sell_artifacts_interaction: "買い手"
+
+ at_warning_reduced_range_desc: "\n@warning_icon! #X 移動中のため、取引範囲が縮小し現在地を中心に設定されています#!"
+
+ at_reluctant_to_spend_gold_reason: "[recipient.GetSheHe|U]は[gold|E]を使うのに消極的: $VALUE|=+0$"
+ at_recipient_at_war_reason: "[recipient.GetSheHe|U]は戦争中: $VALUE|=+0$"
+ at_target_qwa_reason: "[target.GetName]の品質と価値: $VALUE|=+0$"
+ at_target_better_than_owned_artifacts_reason: "[target.GetName]は所有・装備可能な遺物より優れている: $VALUE|=+0$"
+ at_target_better_than_other_owned_artifacts_reason: "[target.GetName]は他の所有・装備可能な遺物より優れている: $VALUE|=+0$"
+ at_target_below_max_durability_reason: "[target.GetName]は最大耐久度を下回っている: $VALUE|=+0$"
+ at_artifact_house_banner_reason: "これは[recipient.GetShortUINamePossessiveNoTooltip][house|E]の家旗: $VALUE|=+0$"
+ at_artifact_succession_title_reason: "[recipient.GetShortUIName|U]は[target.GetName]の継承称号を保持している: $VALUE|=+0$"
+ at_artifact_recently_bought_reason: "[recipient.GetShortUIName|U]は最近[target.GetName]を購入し、手放したくない: $VALUE|=+0$"
+ at_not_enough_gold_reason: "[actor.GetShortUIName|U]は価格を支払えない: $VALUE|=+0$"
+ at_target_expensive_reason: "[target.GetName]はかなり高価: $VALUE|=+0$"
+ at_target_cheap_reason: "[target.GetName]はかなり安価: $VALUE|=+0$"
+ at_target_unique_reason: "[target.GetName]はユニーク: $VALUE|=+0$"
+ at_artifact_religion_relic_reason: "[target.GetName]は[recipient.GetShortUINamePossessiveNoTooltip]宗教の聖遺物: $VALUE|=+0$"
+ at_target_unwanted_reason: "[target.GetName]は不要: $VALUE|=+0$"
+ at_target_cursed_reason: "[target.GetName]は呪われている: $VALUE|=+0$"
+ at_target_equipped_reason: "[target.GetName]は[recipient.GetShortUIName|U]が装備中: $VALUE|=+0$"
+ at_target_trash_reason: "[target.GetName]はほとんど無価値: $VALUE|=+0$"
+ at_recipient_poor_reason: "[recipient.GetShortUIName|U]は自身を貧しいと考えている: $VALUE|=+0$"
+ at_recipient_rich_reason: "[recipient.GetShortUIName|U]は自身を裕福だと考えている: $VALUE|=+0$"
+ at_recipient_merchant_reason: "[recipient.GetShortUIName|U]は商人: $VALUE|=+0$"
+
+ at_buyer_not_enough_gold_for_artifact_price_tooltip: "[seller.GetShortUINameNoTooltip]に#high [gold_i][SCOPE.ScriptValue('at_scope_buyer_current_gold_value')|0]#!を支払う #weak（全額[gold_i][SCOPE.ScriptValue('at_scope_artifact_price_value')|0]は短期予算を超過）#!"
+
+ at_artifact_price_breakdown_tooltip: "価格の内訳:\n[GuiScope.SetRoot(artifact.MakeScope).AddScope('actor', actor.MakeScope).AddScope('buyer', buyer.MakeScope).AddScope('seller', seller.MakeScope).GetScriptValueDesc('at_artifact_actual_price_value')]"
+
+ at_msg_artifact_bought: "遺物を購入"
+ at_msg_artifact_sold: "遺物を売却"
+
+ at_artifact_cannot_equip_or_benefit_tt: "@warning_icon! #X [buyer.GetTitledFirstName]は[artifact.GetName]を装備・恩恵を得ることができません#!"
+ at_artifact_cannot_equip_tt: "@warning_icon! #X [buyer.GetTitledFirstName]は[artifact.GetName]を装備できません#!"
+ at_artifact_cannot_benefit_tt: "@warning_icon! #X [buyer.GetTitledFirstName]は[artifact.GetName]から恩恵を得られません#!"
+ at_artifact_unwanted_or_cursed_tt: "@warning_icon! #X 不要または呪われた遺物#!"

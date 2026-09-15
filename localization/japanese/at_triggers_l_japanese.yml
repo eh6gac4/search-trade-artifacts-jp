@@ -1,0 +1,12 @@
+﻿l_japanese:
+ at_aniconists_wont_trade_artifacts_first: "あなたの聖像破壊主義の信仰は遺物の売買を許可していません"
+ at_aniconists_wont_trade_artifacts_third: "相手の聖像破壊主義の信仰は遺物の売買を許可していません"
+
+ at_not_enough_short_term_gold_tt: "相手の短期予算では遺物の購入に不足しています"
+
+ at_valid_buyer_or_seller_tt: "遺物を取引するには遠すぎます"
+
+ at_any_artifact_can_be_sold_and_bought_by_first_tt: "あなたが売却でき、相手が購入できる[artifact|E]を所持している必要があります"
+ at_any_artifact_can_be_sold_and_bought_by_third_tt: "相手が売却でき、あなたが購入できる[artifact|E]を所持している必要があります"
+
+ at_any_artifact_can_be_destroyed_tt: "あなたが破壊できる[artifact|E]を所持している必要があります"

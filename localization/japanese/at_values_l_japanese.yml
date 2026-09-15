@@ -1,0 +1,11 @@
+﻿l_japanese:
+ at_artifact_price_qwa_desc: "品質と価値"
+ at_artifact_price_durability_desc: "耐久度"
+ at_artifact_price_destroy_desc: "破壊時価値を下回らない"
+ at_artifact_price_unique_desc: "ユニーク"
+ at_artifact_price_min_desc: "最低価格"
+ at_artifact_price_tribal_desc: "部族制"
+ at_artifact_ask_price_player_desc: "利益率"
+ at_artifact_ask_price_ai_greed_desc: "売り手の強欲さ"
+ at_artifact_bid_price_ai_greed_desc: "買い手の強欲さ"
+ at_artifact_bid_price_multiplier_desc: "値切り交渉の結果"
