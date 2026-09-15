@@ -12,3 +12,6 @@ desktop.ini
 
 # Backup files
 *.bak
+
+# 画像生成の中間出力（thumbnail.png のみ追跡）
+/output/
