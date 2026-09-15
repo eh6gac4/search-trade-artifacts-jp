@@ -35,4 +35,7 @@ CK3のランチャーで「Search & Trade Artifacts」→「Search & Trade Artif
 
 ## ライセンス
 
-本Modは元Modのコンテンツを含みません（表示文の翻訳のみ）。
+本Modは [GPL-3.0](LICENSE) の下で公開されています。元Mod
+（[pharaox/artifact_trade](https://github.com/pharaox/artifact_trade)、GPL-3.0）の
+ローカライズキー構造をもとにした派生物であり、コンテンツ（スクリプト・GUI・グラフィック等）は
+含まず表示文の翻訳のみを追加します。
